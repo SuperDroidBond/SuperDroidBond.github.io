@@ -1,19 +1,19 @@
 ## This Is My Page, My Repo, My GitHub.
 
 I am just a simple Tech Lover, who loves to modify things manuaaly, editing java files through text editors and pushing codes directly for own use.
-**Special Credits Here To My Seniors, Freinds n Testers. A few name to be mentioned here - **
+**Special Credits Here To My Seniors, Freinds n Testers. A few name to be mentioned here** -
 
--Adi Aesiteru Reborn
--Tdunham,
--Ticklefish
--jackeagle
--SaatvikShukla
--superdragonpt
--khan_frd2002
--RakeshBatra
--Team ColtOS
--Dhairya
--All Users Who ever have used my Mods, ROMs, etc.
+- Adi Aesiteru Reborn
+- Tdunham
+- Ticklefish
+- jackeagle
+- SaatvikShukla
+- superdragonpt
+- khan_frd2002
+- RakeshBatra
+- Team ColtOS
+- Dhairya
+- All Users Who ever have used my Mods, ROMs, etc.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
